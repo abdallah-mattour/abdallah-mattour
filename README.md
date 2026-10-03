@@ -240,16 +240,30 @@ flowchart LR
 | **Quality & monitoring** | JUnit 5, Mockito, SonarQube, TDD, Postman, Spring Boot Actuator |
 | **Ways of working** | Git, Jira, Agile/Scrum |
 
-## 📊 GitHub stats
+## 📊 GitHub activity
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api?username=abdallah-mattour&show_icons=true&theme=tokyonight&title_color=f43f5e&icon_color=f43f5e&hide_border=true&bg_color=00000000&count_private=true" />
-    <img height="165" alt="GitHub stats" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=abdallah-mattour&show_icons=true&title_color=f43f5e&icon_color=f43f5e&hide_border=true&bg_color=00000000&count_private=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api?username=abdallah-mattour&show_icons=true&include_all_commits=true&count_private=true&title_color=f43f5e&icon_color=f43f5e&hide_border=true&bg_color=00000000&theme=tokyonight" />
+    <img height="170" alt="Abdullah's GitHub stats" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=abdallah-mattour&show_icons=true&include_all_commits=true&count_private=true&title_color=f43f5e&icon_color=f43f5e&hide_border=true&bg_color=00000000" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=abdallah-mattour&layout=compact&theme=tokyonight&title_color=f43f5e&hide_border=true&bg_color=00000000&langs_count=8" />
-    <img height="165" alt="Top languages" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=abdallah-mattour&layout=compact&title_color=f43f5e&hide_border=true&bg_color=00000000&langs_count=8" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=abdallah-mattour&layout=compact&title_color=f43f5e&hide_border=true&bg_color=00000000&langs_count=8&theme=tokyonight" />
+    <img height="170" alt="Most used languages" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=abdallah-mattour&layout=compact&title_color=f43f5e&hide_border=true&bg_color=00000000&langs_count=8" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=abdallah-mattour&hide_border=true&ring=F43F5E&fire=F43F5E&currStreakLabel=F43F5E&theme=tokyonight&background=0D1117" />
+    <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=abdallah-mattour&hide_border=true&ring=F43F5E&fire=F43F5E&currStreakLabel=F43F5E&background=FFFFFF" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdallah-mattour&theme=tokyonight" />
+    <img width="100%" alt="My contributions over time" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdallah-mattour&theme=default" />
   </picture>
 </p>
 
