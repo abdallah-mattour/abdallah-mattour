@@ -1,7 +1,9 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:f43f5e&height=200&section=header&text=Abdullah%20Mattour&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Backend%20Engineer%20%C2%B7%20Java%20%26%20Spring%20Boot%20%C2%B7%20AWS&descSize=18&descAlignY=58&animation=fadeIn" alt="Abdullah Mattour — Backend Engineer · Java & Spring Boot · AWS" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=46&duration=1800&pause=1000&color=F43F5E&center=true&vCenter=true&repeat=false&width=720&height=72&lines=Abdullah+Mattour" alt="Abdullah Mattour" />
 </p>
+
+<p align="center"><b>Backend Engineer · Java &amp; Spring Boot · AWS</b></p>
 
 <p align="center">
   <a href="https://github.com/abdallah-mattour">
@@ -260,6 +262,6 @@ If your team needs someone who makes slow things fast and manual things automati
   <a href="mailto:abdullah.mtoor7@gmail.com"><img src="https://img.shields.io/badge/Email-abdullah.mtoor7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email abdullah.mtoor7@gmail.com" /></a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f43f5e,100:0f172a&height=110&section=footer" alt="" width="100%" />
-</p>
+---
+
+<p align="center"><sub>Thanks for stopping by ⭐ &nbsp;·&nbsp; <a href="https://github.com/abdallah-mattour">abdallah-mattour</a></sub></p>
