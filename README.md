@@ -28,7 +28,6 @@
 ## The 30-second version
 
 <table>
-  <tr><td>🎯 <b>Looking for</b></td><td>Backend / Software Engineer roles — Java, Spring Boot, AWS</td></tr>
   <tr><td>💼 <b>Experience</b></td><td>2 years (part-time, remote) building production microservices for <b>Al Shini</b>, a retail platform</td></tr>
   <tr><td>🎓 <b>Education</b></td><td>B.S. Computer Science, <b>Birzeit University</b> — June 2026</td></tr>
   <tr><td>📍 <b>Location</b></td><td>NYC metro area · open to relocation</td></tr>
