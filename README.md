@@ -16,11 +16,10 @@
 </p>
 
 <p align="center">
+  <a href="https://abdallah-mattour.github.io"><img src="https://img.shields.io/badge/Portfolio-abdallah--mattour.github.io-f43f5e?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio: abdallah-mattour.github.io" /></a>
+  <a href="https://abdallah-mattour.github.io/resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-0f172a?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume (PDF)" /></a>
   <a href="https://www.linkedin.com/in/abdullah-mattour/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:abdullah.mtoor7@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <!-- Uncomment and add your resume link (e.g. a PDF in this repo or Google Drive):
-  <a href="LINK_TO_YOUR_RESUME"><img src="https://img.shields.io/badge/Resume-PDF-f43f5e?style=flat-square&logo=readthedocs&logoColor=white" alt="Resume" /></a>
-  -->
 </p>
 
 ---
@@ -28,6 +27,7 @@
 ## The 30-second version
 
 <table>
+  <tr><td>🌐 <b>Portfolio</b></td><td><a href="https://abdallah-mattour.github.io"><b>abdallah-mattour.github.io</b></a>: live dashboard, incident reports, and a <a href="https://abdallah-mattour.github.io/#recruiter">30-second recruiter view</a></td></tr>
   <tr><td>💼 <b>Experience</b></td><td>2 years (part-time, remote) building production microservices for <b>Al Shini</b>, a retail platform</td></tr>
   <tr><td>🎓 <b>Education</b></td><td>B.S. Computer Science, <b>Birzeit University</b> — June 2026</td></tr>
   <tr><td>📍 <b>Location</b></td><td>NYC metro area · open to relocation</td></tr>
@@ -187,6 +187,8 @@ flowchart LR
 
 ## Featured projects
 
+> 🛰️ **[This portfolio](https://abdallah-mattour.github.io)** is built like a production service: React + TypeScript, prerendered for speed, 45 tests with a coverage gate, and a GitHub Actions pipeline that blocks the deploy if Lighthouse scores drop. [See the code and the pipeline →](https://github.com/abdallah-mattour/abdallah-mattour.github.io)
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -262,6 +264,7 @@ If your team needs someone who makes slow things fast and manual things automati
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-mattour/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
   <a href="mailto:abdullah.mtoor7@gmail.com"><img src="https://img.shields.io/badge/Email-abdullah.mtoor7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email abdullah.mtoor7@gmail.com" /></a>
+  <a href="https://abdallah-mattour.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-f43f5e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" /></a>
 </p>
 
 ---
